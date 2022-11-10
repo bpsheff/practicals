@@ -3,6 +3,8 @@ import operator
 import matplotlib.pyplot
 import agentframework
 
+print("Hello")
+
 # Random seed setting (for reproducibility)
 random.seed(0)
 
