@@ -5,6 +5,8 @@ import agentframework
 
 print("Hello")
 
+print("testing")
+
 # Random seed setting (for reproducibility)
 random.seed(0)
 
